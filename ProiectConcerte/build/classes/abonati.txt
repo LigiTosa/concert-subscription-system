@@ -1,4 +1,0 @@
-Marius,11111,3
-Ramona,22222,1
-Cristina,33333,7
-Robert,44444,10
